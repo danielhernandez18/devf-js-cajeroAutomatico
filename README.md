@@ -70,14 +70,10 @@ __Como regla de negocio, una cuenta no debe de tener más de \$990 y menos de \$
 
 Página web desplegada: [Cajero Automatico][cajero]
 
-[cajero]: https://iamdanihdz.github.io/DEVF-JS-Cajero-Automatico/
+[cajero]: https://danielhernandez18.github.io/devf-js-cajeroAutomatico/
 
-<img src="https://github.com/iamDaniHdz/DEVF-JS-Cajero-Automatico/blob/master/assets/index.png">
+<img src="https://github.com/danielhernandez18/devf-js-cajeroAutomatico/blob/main/assets/index.png">
 
-<img src="https://github.com/iamDaniHdz/DEVF-JS-Cajero-Automatico/blob/master/assets/login.png">
+<img src="https://github.com/danielhernandez18/devf-js-cajeroAutomatico/blob/main/assets/login.png">
 
-<img src="https://github.com/iamDaniHdz/DEVF-JS-Cajero-Automatico/blob/master/assets/transaction.png">
-
-[Regresar al DEV.F-Intro-JavaScript][repositorio]
-
-[repositorio]: https://github.com/iamDaniHdz/DEVF-Intro-JavaScript
+<img src="https://github.com/danielhernandez18/devf-js-cajeroAutomatico/blob/main/assets/transaction.png">
